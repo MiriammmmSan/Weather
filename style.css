@@ -7,7 +7,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background-color: #222;
-    background-image: url(https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_1280.jpg);
+    background-image: url(img/clear_sky.jpeg); 
     background-size: cover;
 }
 
